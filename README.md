@@ -1,4 +1,3 @@
-# DucHuy219.github.io
 <div style="width: 1440px; height: 4805px; position: relative; background: #F0F0F6">
     <div style="width: 970px; height: 467px; left: 335px; top: 0px; position: absolute">
       <div style="width: 970px; height: 467px; left: 0px; top: 0px; position: absolute; background: white"></div>
